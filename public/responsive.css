@@ -1,0 +1,25 @@
+@media (max-width: 1100px) {
+  .app {
+    width: 40%;
+  }
+}
+@media (max-width: 860px) {
+  .app {
+    width: 60%;
+  }
+}
+@media (max-width: 575px) {
+  .app {
+    width: 80%;
+  }
+}
+@media (max-width: 400px) {
+  .app {
+    width: 95%;
+  }
+}
+@media (max-width: 320px) {
+  .app {
+    width: 100%;
+  }
+}
